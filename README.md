@@ -3,14 +3,12 @@
 Hi there! I'm **Aniket**, a passionate **Android Developer**, **Full Stack Web Developer**, and **UI/UX Enthusiast**. I love building smooth mobile apps, dynamic web experiences, and visually compelling interfaces that solve real-world problems.
 
 ---
-# 💻 Hi, I'm Aniket 
 
-**Full-Stack Developer | Open-Source Enthusiast**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-
+<p align="left">
+ <a href="https://www.linkedin.com/in/aniket-gosavi-77514128a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="mailto:aniketgosavi471@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ <a href="https://www.instagram.com/mr_aniket_404_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 ---
 
 ## 📊 GitHub Analytics
@@ -34,17 +32,13 @@ Hi there! I'm **Aniket**, a passionate **Android Developer**, **Full Stack Web D
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
----
-
-## 🏆 Achievements
-![Trophy](https://github-profile-trophy.vercel.app/?username=mraniket404&margin-w=15&no-bg=true&no-frame=true)
 
 ---
 
 ## 📫 How to Reach Me
-📧 Email: your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🐦 [Twitter](https://twitter.com/yourhandle)
+📧 Email: aniketgosavi471@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/aniket-gosavi-77514128a/)  
+🐦 [Instagram](https://www.instagram.com/mr_aniket_404_)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mraniket404&color=blue)
 
