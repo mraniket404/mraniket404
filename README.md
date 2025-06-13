@@ -47,10 +47,20 @@ Hi there! I'm **Aniket**, a passionate **Android Developer**, **Full Stack Web D
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mraniket404&show_icons=true&theme=radical" />
+ </p>
+ <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraniket404&layout=compact&theme=radical&hide_border=true" />
+ </p>
+ <p align="center">
   <img src="https://streak-stats.demolab.com?user=mraniket404&theme=radical&hide_border=true" />
+  </p>
+  <p align="center">
  <img src="https://git.io/streak-stats" />
+ </p>
+ <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=mraniket404&include_all_commits=true&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=My%20Performance" />
+ </p>
+ <p align="center">
   <img src="[https://git.io/streak-stats](https://github.com/anuraghazra/github-readme-stats)" />
 </p>
 
