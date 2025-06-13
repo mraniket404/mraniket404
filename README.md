@@ -47,7 +47,7 @@ Hi there! I'm **Aniket**, a passionate **Android Developer**, **Full Stack Web D
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mraniket404&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mraniket404&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mraniket404&show_icons=true&theme=radical" />
 </p>
 
     
