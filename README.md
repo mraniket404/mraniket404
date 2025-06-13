@@ -17,7 +17,7 @@ Hi there! I'm **Aniket**, a passionate **Android Developer**, **Full Stack Web D
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mraniket404&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
   
 [![Aniket's Stats](https://github-readme-stats.vercel.app/api?username=mraniket404&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
