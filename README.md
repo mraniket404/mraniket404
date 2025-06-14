@@ -38,7 +38,7 @@ Hi there! I'm **Aniket**, a passionate **Android Developer**, **Full Stack Web D
 ## 📫 How to Reach Me
 📧 Email: aniketgosavi471@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/aniket-gosavi-77514128a/)  
-🐦 [Instagram](https://www.instagram.com/mr_aniket_404_)
+ 📸 [Instagram](https://www.instagram.com/mr_aniket_404_)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mraniket404&color=blue)
 
