@@ -1,28 +1,20 @@
-<!-- 🌊 Wave Header -->
-
+<!-- 🌊 HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Aniket%20Gosavi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<h1 align="center">🚀 Welcome to My GitHub Profile</h1>
-
-<!-- 🔥 Typing Animation -->
-
+<!-- ⌨️ TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Backend+Architecture+Enthusiast;DSA+in+Java;Building+Scalable+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Backend+Architecture+Enthusiast;DSA+in+Java;Microservices+Learner" />
 </p>
 
-<p align="center">
-  <b>Hi, I'm Aniket 👋</b><br/>
-  MERN Stack Developer • Backend Architecture Enthusiast • Java DSA Learner
-</p>
+<h2 align="center">Hi, I'm Aniket 👋</h2>
 
 <p align="center">
-I enjoy building scalable web applications, designing efficient APIs, and solving complex problems using <b>Data Structures & Algorithms in Java</b>.
+Building scalable web apps • Learning system design • Solving DSA in Java
 </p>
 
 ---
 
-<!-- 🔗 Social Links -->
-
+<!-- 🔗 SOCIAL -->
 <p align="center">
  <a href="https://www.linkedin.com/in/aniket-gosavi-77514128a/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -37,20 +29,25 @@ I enjoy building scalable web applications, designing efficient APIs, and solvin
 
 ---
 
-## 🔥 Featured Projects
-
+<!-- 💎 GLASS CARDS -->
 <p align="center">
-  <a href="https://github.com/mraniket404">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mraniket404&repo=EcoCart&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/mraniket404">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mraniket404&repo=BookMyShow-Clone&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-0f2027?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code-Clean%20Architecture-2c5364?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Goal-Top%201%25%20Developer-black?style=for-the-badge" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 🔥 Featured Projects
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mraniket404&repo=EcoCart&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mraniket404&repo=BookMyShow-Clone&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mraniket404&theme=tokyonight&hide_border=true" />
@@ -60,8 +57,18 @@ I enjoy building scalable web applications, designing efficient APIs, and solvin
   <img src="https://github-readme-stats.vercel.app/api?username=mraniket404&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+<!-- 📈 GRAPH -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraniket404&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mraniket404&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+<!-- 🧠 QUOTE -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
@@ -69,53 +76,24 @@ I enjoy building scalable web applications, designing efficient APIs, and solvin
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🧠 Core Skills
-
-<p align="center">
-
-🚀 Data Structures & Algorithms (Java)
-⚡ REST API Development
-🏗️ Monolithic Architecture
-🔗 Microservices Architecture
-
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
- <a href="mailto:aniketgosavi471@gmail.com">📧 Email</a> • 
- <a href="https://www.linkedin.com/in/aniket-gosavi-77514128a/">LinkedIn</a> • 
- <a href="https://www.instagram.com/mr_aniket_404_">Instagram</a>
-</p>
-
----
-
-<!-- 🐍 Contribution Snake -->
-
+<!-- 🐍 SNAKE -->
 <p align="center">
   <img src="https://github.com/mraniket404/mraniket404/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
+<!-- 👀 VIEWS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mraniket404&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=mraniket404&style=for-the-badge" />
 </p>
 
 ---
 
-<!-- 🌊 Footer Wave -->
-
+<!-- 🌊 FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
