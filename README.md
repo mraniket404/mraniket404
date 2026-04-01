@@ -1,74 +1,84 @@
-<!-- 🌊 HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Aniket%20Gosavi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<!-- 🌌 NEON HEADER -->
 
-<!-- ⌨️ TYPING -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=200&section=header&text=Aniket%20Gosavi&fontSize=45&fontColor=00F7FF&animation=twinkling" />
+
+<!-- ⌨️ TYPING ANIMATION -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Backend+Architecture+Enthusiast;DSA+in+Java;Microservices+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Backend+Architecture+Explorer;DSA+in+Java;Building+Real+World+Projects" />
 </p>
 
-<h2 align="center">Hi, I'm Aniket 👋</h2>
+<h2 align="center">👨‍💻 Hi, I'm Aniket</h2>
 
 <p align="center">
-Building scalable web apps • Learning system design • Solving DSA in Java
+⚡ Turning ideas into scalable systems • Learning daily • Growing consistently
 </p>
 
 ---
 
-<!-- 🔗 SOCIAL -->
+<!-- 💎 GLASS BADGES -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Systems-141E30?style=for-the-badge&logo=icloud&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/Learning-DSA%20(Java)-243B55?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture-Microservices-blueviolet?style=for-the-badge" />
+</p>
+
+---
+
+<!-- 🔗 SOCIAL LINKS -->
+
 <p align="center">
  <a href="https://www.linkedin.com/in/aniket-gosavi-77514128a/">
-   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+   <img src="https://img.shields.io/badge/LinkedIn-141E30?style=for-the-badge&logo=linkedin&logoColor=00F7FF" />
  </a>
  <a href="mailto:aniketgosavi471@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+   <img src="https://img.shields.io/badge/Gmail-243B55?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>
  <a href="https://www.instagram.com/mr_aniket_404_">
-   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+   <img src="https://img.shields.io/badge/Instagram-141E30?style=for-the-badge&logo=instagram&logoColor=E4405F" />
  </a>
 </p>
 
 ---
 
-<!-- 💎 GLASS CARDS -->
+## 🚀 Featured Projects
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-0f2027?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Code-Clean%20Architecture-2c5364?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Goal-Top%201%25%20Developer-black?style=for-the-badge" />
+  <a href="https://github.com/mraniket404/EcoCart">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mraniket404&repo=EcoCart&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/mraniket404/BookMyShow-Clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mraniket404&repo=BookMyShow-Clone&theme=radical&hide_border=true" />
+  </a>
 </p>
 
 ---
 
-## 🔥 Featured Projects
+## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mraniket404&repo=EcoCart&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mraniket404&repo=BookMyShow-Clone&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=mraniket404&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mraniket404&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<!-- 📈 ACTIVITY GRAPH -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mraniket404&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mraniket404&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mraniket404&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-<!-- 📈 GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mraniket404&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+<!-- 🧠 DEV QUOTE -->
 
----
-
-<!-- 🧠 QUOTE -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
@@ -81,19 +91,22 @@ Building scalable web apps • Learning system design • Solving DSA in Java
 
 ---
 
-<!-- 🐍 SNAKE -->
+<!-- 🐍 CONTRIBUTION SNAKE -->
+
 <p align="center">
   <img src="https://github.com/mraniket404/mraniket404/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-<!-- 👀 VIEWS -->
+<!-- 👀 PROFILE VIEWS -->
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mraniket404&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=mraniket404&color=00F7FF&style=for-the-badge" />
 </p>
 
 ---
 
 <!-- 🌊 FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:243B55,100:141E30&height=120&section=footer"/>
