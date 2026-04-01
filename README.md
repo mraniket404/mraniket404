@@ -1,4 +1,10 @@
+<!-- 🌊 Wave Header -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Aniket%20Gosavi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
 <h1 align="center">🚀 Welcome to My GitHub Profile</h1>
+
+<!-- 🔥 Typing Animation -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Backend+Architecture+Enthusiast;DSA+in+Java;Building+Scalable+Web+Apps" />
@@ -6,7 +12,7 @@
 
 <p align="center">
   <b>Hi, I'm Aniket 👋</b><br/>
-  MERN Stack Developer • Backend Architecture Enthusiast • Java DSA
+  MERN Stack Developer • Backend Architecture Enthusiast • Java DSA Learner
 </p>
 
 <p align="center">
@@ -14,6 +20,8 @@ I enjoy building scalable web applications, designing efficient APIs, and solvin
 </p>
 
 ---
+
+<!-- 🔗 Social Links -->
 
 <p align="center">
  <a href="https://www.linkedin.com/in/aniket-gosavi-77514128a/">
@@ -25,6 +33,19 @@ I enjoy building scalable web applications, designing efficient APIs, and solvin
  <a href="https://www.instagram.com/mr_aniket_404_">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
  </a>
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/mraniket404">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mraniket404&repo=EcoCart&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/mraniket404">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mraniket404&repo=BookMyShow-Clone&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 ---
@@ -81,12 +102,20 @@ I enjoy building scalable web applications, designing efficient APIs, and solvin
 
 ---
 
+<!-- 🐍 Contribution Snake -->
+
+<p align="center">
+  <img src="https://github.com/mraniket404/mraniket404/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mraniket404&color=blue&style=for-the-badge" />
 </p>
 
 ---
 
-<p align="center">
-✨ <i>Focused on growth, consistency, and building real-world systems.</i>
-</p>
+<!-- 🌊 Footer Wave -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
