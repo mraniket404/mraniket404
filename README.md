@@ -1,8 +1,12 @@
 <h1 align="center">🚀 Welcome to My GitHub Profile</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Backend+Architecture+Enthusiast;DSA+in+Java;Building+Scalable+Web+Apps" />
+</p>
+
+<p align="center">
   <b>Hi, I'm Aniket 👋</b><br/>
-  MERN Stack Developer • Backend Architecture Enthusiast • Java DSA Learner
+  MERN Stack Developer • Backend Architecture Enthusiast • Java DSA
 </p>
 
 <p align="center">
