@@ -38,15 +38,6 @@ Building scalable web apps • Learning system design • Solving DSA in Java
 
 ---
 
-## 🔥 Featured Projects
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mraniket404&repo=EcoCart&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mraniket404&repo=BookMyShow-Clone&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -62,13 +53,6 @@ Building scalable web apps • Learning system design • Solving DSA in Java
 <!-- 📈 GRAPH -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mraniket404&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-<!-- 🧠 QUOTE -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
